@@ -15,7 +15,7 @@ int main()
 //         cout << cyb[i] << "\t";
 //     }
 // }
-{
+//{
     // // wap to givan values only the eveen numbers print
     // int cyb[5];
     // cout << "entert 5 value";
@@ -67,22 +67,22 @@ int main()
     //     }
     // }
 
-    {
+ //   {
         // wap to display those value dsplay having even index
 
-        int evv[5] = {8, 2, 3, 1, 6};
-        for (int i = 0; i <= 4; i++)
-        {
-            cin >> evv[i];
-        }
-        cout << "\n data stored in array\n";
-        // is ko karne se time kam lagega
-        for (int i = 0; i <= 4; i = i + 2)
-        {
-            if (i % 2 == 0)
-            {
-                cout << evv[i] << "\t";
-            }
-        }
-    }
-}
+    //     int evv[5] = {8, 2, 3, 1, 6};
+    //     for (int i = 0; i <= 4; i++)
+    //     {
+    //         cin >> evv[i];
+    //     }
+    //     cout << "\n data stored in array\n";
+    //     // is ko karne se time kam lagega
+    //     for (int i = 0; i <= 4; i = i + 2)
+    //     {
+    //         if (i % 2 == 0)
+    //         {
+    //             cout << evv[i] << "\t";
+    //         }
+    //     }
+    //}
+//}
